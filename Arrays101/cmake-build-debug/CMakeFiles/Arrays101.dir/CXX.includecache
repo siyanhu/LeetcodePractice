@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/FindEvenDigits.cpp
+iostream
+-
+FindEvenDigits.h
+/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/FindEvenDigits.h
+
+/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/FindEvenDigits.h
+vector
+-
+
