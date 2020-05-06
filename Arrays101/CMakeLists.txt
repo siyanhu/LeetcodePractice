@@ -3,4 +3,4 @@ project(Arrays101)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Arrays101 main.cpp SquareSortedArray.cpp SquareSortedArray.h)
+add_executable(Arrays101 main.cpp MergedSortedArray.cpp MergedSortedArray.h)

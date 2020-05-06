@@ -70,29 +70,29 @@ CMakeFiles/Arrays101.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Arrays101.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/main.cpp -o CMakeFiles/Arrays101.dir/main.cpp.s
 
-CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.o: CMakeFiles/Arrays101.dir/flags.make
-CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.o: ../SquareSortedArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.o -c /Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/SquareSortedArray.cpp
+CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.o: CMakeFiles/Arrays101.dir/flags.make
+CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.o: ../MergedSortedArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.o -c /Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/MergedSortedArray.cpp
 
-CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/SquareSortedArray.cpp > CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.i
+CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/MergedSortedArray.cpp > CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.i
 
-CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/SquareSortedArray.cpp -o CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.s
+CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/MergedSortedArray.cpp -o CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.s
 
 # Object files for target Arrays101
 Arrays101_OBJECTS = \
 "CMakeFiles/Arrays101.dir/main.cpp.o" \
-"CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.o"
+"CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.o"
 
 # External object files for target Arrays101
 Arrays101_EXTERNAL_OBJECTS =
 
 Arrays101: CMakeFiles/Arrays101.dir/main.cpp.o
-Arrays101: CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.o
+Arrays101: CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.o
 Arrays101: CMakeFiles/Arrays101.dir/build.make
 Arrays101: CMakeFiles/Arrays101.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Arrays101"

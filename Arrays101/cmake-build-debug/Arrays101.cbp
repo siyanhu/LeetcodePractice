@@ -78,10 +78,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/SquareSortedArray.cpp">
+		<Unit filename="/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/MergedSortedArray.cpp">
 			<Option target="Arrays101"/>
 		</Unit>
-		<Unit filename="/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/SquareSortedArray.h">
+		<Unit filename="/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/MergedSortedArray.h">
 			<Option target="Arrays101"/>
 		</Unit>
 		<Unit filename="/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/main.cpp">

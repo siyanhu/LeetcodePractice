@@ -123,32 +123,32 @@ Arrays101/fast:
 	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/build
 .PHONY : Arrays101/fast
 
-SquareSortedArray.o: SquareSortedArray.cpp.o
+MergedSortedArray.o: MergedSortedArray.cpp.o
 
-.PHONY : SquareSortedArray.o
+.PHONY : MergedSortedArray.o
 
 # target to build an object file
-SquareSortedArray.cpp.o:
-	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.o
-.PHONY : SquareSortedArray.cpp.o
+MergedSortedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.o
+.PHONY : MergedSortedArray.cpp.o
 
-SquareSortedArray.i: SquareSortedArray.cpp.i
+MergedSortedArray.i: MergedSortedArray.cpp.i
 
-.PHONY : SquareSortedArray.i
+.PHONY : MergedSortedArray.i
 
 # target to preprocess a source file
-SquareSortedArray.cpp.i:
-	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.i
-.PHONY : SquareSortedArray.cpp.i
+MergedSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.i
+.PHONY : MergedSortedArray.cpp.i
 
-SquareSortedArray.s: SquareSortedArray.cpp.s
+MergedSortedArray.s: MergedSortedArray.cpp.s
 
-.PHONY : SquareSortedArray.s
+.PHONY : MergedSortedArray.s
 
 # target to generate assembly for a file
-SquareSortedArray.cpp.s:
-	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/SquareSortedArray.cpp.s
-.PHONY : SquareSortedArray.cpp.s
+MergedSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.s
+.PHONY : MergedSortedArray.cpp.s
 
 main.o: main.cpp.o
 
@@ -186,9 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Arrays101"
-	@echo "... SquareSortedArray.o"
-	@echo "... SquareSortedArray.i"
-	@echo "... SquareSortedArray.s"
+	@echo "... MergedSortedArray.o"
+	@echo "... MergedSortedArray.i"
+	@echo "... MergedSortedArray.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

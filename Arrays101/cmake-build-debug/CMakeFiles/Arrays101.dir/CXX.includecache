@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/FindEvenDigits.cpp
+/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/InsertIntoArray.cpp
 iostream
 -
-FindEvenDigits.h
-/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/FindEvenDigits.h
+InsertIntoArray.h
+/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/InsertIntoArray.h
 
-/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/FindEvenDigits.h
+/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/InsertIntoArray.h
 vector
 -
 
