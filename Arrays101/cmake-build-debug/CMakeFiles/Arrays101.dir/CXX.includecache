@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/InsertIntoArray.cpp
+/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/MountainArray.cpp
 iostream
 -
-InsertIntoArray.h
-/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/InsertIntoArray.h
+MountainArray.h
+/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/MountainArray.h
 
-/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/InsertIntoArray.h
+/Users/husiyan/Documents/Forks/LeetcodePractice/Arrays101/MountainArray.h
 vector
 -
 

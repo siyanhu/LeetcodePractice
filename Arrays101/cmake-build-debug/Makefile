@@ -123,32 +123,32 @@ Arrays101/fast:
 	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/build
 .PHONY : Arrays101/fast
 
-MergedSortedArray.o: MergedSortedArray.cpp.o
+MountainArray.o: MountainArray.cpp.o
 
-.PHONY : MergedSortedArray.o
+.PHONY : MountainArray.o
 
 # target to build an object file
-MergedSortedArray.cpp.o:
-	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.o
-.PHONY : MergedSortedArray.cpp.o
+MountainArray.cpp.o:
+	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/MountainArray.cpp.o
+.PHONY : MountainArray.cpp.o
 
-MergedSortedArray.i: MergedSortedArray.cpp.i
+MountainArray.i: MountainArray.cpp.i
 
-.PHONY : MergedSortedArray.i
+.PHONY : MountainArray.i
 
 # target to preprocess a source file
-MergedSortedArray.cpp.i:
-	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.i
-.PHONY : MergedSortedArray.cpp.i
+MountainArray.cpp.i:
+	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/MountainArray.cpp.i
+.PHONY : MountainArray.cpp.i
 
-MergedSortedArray.s: MergedSortedArray.cpp.s
+MountainArray.s: MountainArray.cpp.s
 
-.PHONY : MergedSortedArray.s
+.PHONY : MountainArray.s
 
 # target to generate assembly for a file
-MergedSortedArray.cpp.s:
-	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.s
-.PHONY : MergedSortedArray.cpp.s
+MountainArray.cpp.s:
+	$(MAKE) -f CMakeFiles/Arrays101.dir/build.make CMakeFiles/Arrays101.dir/MountainArray.cpp.s
+.PHONY : MountainArray.cpp.s
 
 main.o: main.cpp.o
 
@@ -186,9 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Arrays101"
-	@echo "... MergedSortedArray.o"
-	@echo "... MergedSortedArray.i"
-	@echo "... MergedSortedArray.s"
+	@echo "... MountainArray.o"
+	@echo "... MountainArray.i"
+	@echo "... MountainArray.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

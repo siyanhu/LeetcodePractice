@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "Arrays101"
   "Arrays101.pdb"
-  "CMakeFiles/Arrays101.dir/MergedSortedArray.cpp.o"
+  "CMakeFiles/Arrays101.dir/MountainArray.cpp.o"
   "CMakeFiles/Arrays101.dir/main.cpp.o"
 )
 
